@@ -59,11 +59,11 @@
 ## 🚀 **Projects**
 ### 🔹 **VoteMate**
 🗳 **Online voting app** for **secure and remote elections**  
-🔗 [GitHub Repo](#)  
+
 
 ### 🔹 **Accenture Data Analytics**
 📊 Analyzed **social media trends** and presented insights via **PowerPoint & video**  
-🔗 [GitHub Repo](#)  
+
 
 ---
 
