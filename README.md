@@ -14,43 +14,71 @@
 
 ---
 
-## 🚀 About Me  
-🎯 **Back-End Developer** | **Flask | PostgreSQL | API Development**  
-💡 Passionate about **building scalable & high-performance applications**  
-📊 Skilled in **Data Analysis & Visualization** with **MongoDB, MySQL, and Postman**  
-🌱 Always learning, collaborating, and exploring new tech!  
+## 🚀 About Me
+
+🎯 **Back-End Developer** | **API Enthusiast** | **Flask & PostgreSQL Pro**  
+📍  Based in **Kerala, India**  
+💡 Passionate about **clean code**, **scalable systems**, and **data-driven development**  
+🌱 Currently diving deep into **Python, Data Science, AI & ML, PowerBI** @ **Luminar Technolab, Kochi**
 
 ---
 
-## 🛠 Languages and Tools  
+## 📚 Currently Learning
+
+Currently pursuing the **Python Data Science with AI & ML & BI** course at **Luminar Technolab, Kochi**, covering:
+
+- Python & Advanced Python  
+- SQL  
+- Exploratory Data Analysis  
+- Data Science, AI & ML  
+- Deep Learning  
+- Power BI  
+- Generative AI  
+- AWS (Cloud)
+
+*Progressing through modules with hands-on practice using tools like NumPy, Pandas and Matplotlib.*
+
+
+---
+
+## 🛠 Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,mongodb,git,github,postman,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,mongodb,git,github,postman,js,html,css,bootstrap,pandas,numpy,aws" />
 </p>
 
 ---
 
-## 🚀 My Tech Journey  
+## 💼 My Experience
 
-### 🏗 **Building the Backend Universe @ Sinnonteq IT Consulting** *(June 2024 – Oct 2024)*  
-🔹 Crafted **RESTful APIs** using **Flask & PostgreSQL** to connect the digital dots.  
-🔹 Worked with UI teams to create **seamless front-end & backend integration**.  
-🔹 Built **scalable, high-performance systems** that thrive under load (most of the time 😆).  
-
----
-
-### 🔍 **Decoding Data @ British Airways** *(April 2024, Virtual Project)*  
-🔹 Investigated **customer review data** to uncover hidden trends (Data Detective Mode: ON 🕵️‍♂️).  
-🔹 Developed **predictive models** to analyze customer behavior.  
+### 🧠 **Python & Data Science Intern @ Luminar Technolab, Kochi** *(June 2025 – Present)*  
+🔹 Learning core concepts in Python, SQL, AI & ML  
+🔹 Hands-on with tools like **NumPy**, **Pandas**, **Matplotlib**  
+🔹 Working on mini-projects and real-world problem solving 
 
 ---
 
-### 📊 **Visualizing the Future @ Accenture** *(Jan 2025, Virtual Internship)*  
-🔹 Analyzed **7 datasets** to identify key social media trends.  
-🔹 Created **data visualizations** so clear, even non-tech folks went **“Wow! 😲”**.  
+### 🏗 **Backend Developer Intern @ Sinnonteq IT Consulting** *(June 2024 – Oct 2024)*  
+🔹 Developed **RESTful APIs** with **Flask** and **PostgreSQL**  
+🔹 Integrated front-end and back-end systems seamlessly  
+🔹 Built and optimized **scalable backend architectures**
 
 ---
 
-## 📊 GitHub Stats  
+### 🔍 **Data Analyst Virtual Project @ British Airways** *(April 2024)*  
+🔹 Analyzed customer reviews to uncover key patterns  
+🔹 Developed **predictive models** for improved customer insight  
+
+---
+
+### 📊 **Data Visualization Virtual Internship @ Accenture** *(Jan 2025)*  
+🔹 Explored and visualized **7 datasets** to extract actionable insights  
+🔹 Delivered **dashboard-ready visualizations** using storytelling with data
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wafa-zz&show_icons=true&theme=radical" width="400px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wafa-zz&theme=radical" width="400px">
@@ -58,11 +86,13 @@
 
 ---
 
-## 🌎 Let's Connect!  
-📧 **Email:** [wafzz3090@gmail.com](mailto:wafzz3090@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/wafa-abdulla-1b1b72239](https://www.linkedin.com/in/wafa-abdulla-1b1b72239)  
-🐙 **GitHub:** [github.com/wafa-zz](https://github.com/wafa-zz)  
+## 🔗 Let's Connect
+
+- 📧 **Email:** [wafzz3090@gmail.com](mailto:wafzz3090@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/wafa-abdulla-1b1b72239](https://www.linkedin.com/in/wafa-abdulla-1b1b72239)  
+- 🐙 **GitHub:** [github.com/wafa-zz](https://github.com/wafa-zz)
 
 ---
 
-✨ *"Striving to create efficient, scalable, and impactful solutions!"* 🚀
+✨ *"Striving to create efficient, scalable, and impactful solutions!"* 🚀 
+
