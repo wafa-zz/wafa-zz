@@ -4,7 +4,7 @@
   <a href="mailto:wafzz3090@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/wafa-abdulla-1b1b72239">
+  <a href="https://www.linkedin.com/in/wafa-abdulla11">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/wafa-zz">
