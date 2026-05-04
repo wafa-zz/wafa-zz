@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Wafa Abdulla! 👋</h1>
+<h1 align="center">Hi, I'm Wafa Abdulla 👋</h1>
+
+<p align="center">
+  <b>Data Scientist · AI/ML Engineer · NLP & Computer Vision Enthusiast</b><br/>
+  📍 Kannur, Kerala, India
+</p>
 
 <p align="center">
   <a href="mailto:wafzz3090@gmail.com">
@@ -16,64 +21,63 @@
 
 ## 🚀 About Me
 
-🎯 **Back-End Developer** | **API Enthusiast** | **Flask & PostgreSQL Pro**  
-📍  Based in **Kerala, India**  
-💡 Passionate about **clean code**, **scalable systems**, and **data-driven development**  
-🌱 Currently diving deep into **Python, Data Science, AI & ML, PowerBI** @ **Luminar Technolab, Kochi**
+🎯 **Data Scientist & AI/ML Engineer** with hands-on experience in machine learning, deep learning, NLP, computer vision, and generative AI  
+📊 Skilled in building **Power BI dashboards**, performing **EDA**, and deploying end-to-end **ML pipelines**  
+🤖 Experienced with **LLMs, RAG, and fine-tuning** for generative AI workflows  
+🌱 Always learning — currently exploring advanced AI/ML applications and real-world deployment  
 
 ---
 
-## 📚 Currently Learning
-
-Currently pursuing the **Python Data Science with AI & ML & BI** course at **Luminar Technolab, Kochi**, covering:
-
-- Python & Advanced Python  
-- SQL  
-- Exploratory Data Analysis  
-- Data Science, AI & ML  
-- Deep Learning  
-- Power BI  
-- Generative AI  
-- AWS (Cloud)
-
-*Progressing through modules with hands-on practice using tools like NumPy, Pandas and Matplotlib.*
-
-
----
-
-## 🛠 Languages & Tools
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,mongodb,git,github,postman,js,html,css,bootstrap,aws" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,postgres,mysql,mongodb,git,github,postman,vscode" />
 </p>
 
----
-
-## 💼 My Experience
-
-### 🧠 **Python & Data Science Intern @ Luminar Technolab, Kochi** *(June 2025 – Present)*  
-🔹 Learning core concepts in Python, SQL, AI & ML  
-🔹 Hands-on with tools like **NumPy**, **Pandas**, **Matplotlib**  
-🔹 Working on mini-projects and real-world problem solving 
-
----
-
-### 🏗 **Backend Developer Intern @ Sinnonteq IT Consulting** *(June 2024 – Oct 2024)*  
-🔹 Developed **RESTful APIs** with **Flask** and **PostgreSQL**  
-🔹 Integrated front-end and back-end systems seamlessly  
-🔹 Built and optimized **scalable backend architectures**
+**Languages & Query:** Python · SQL · DAX  
+**ML / DL:** Scikit-learn · TensorFlow · Keras · ANN · CNN · RNN (LSTM)  
+**NLP & GenAI:** NLTK · LLM · RAG · Fine-tuning  
+**Computer Vision:** OpenCV · MediaPipe · YOLO · Face Recognition  
+**Data & BI:** Pandas · NumPy · Power BI · Excel · Streamlit  
+**Databases:** MySQL · PostgreSQL · MongoDB  
+**Other:** Git · VS Code · PyCharm · Postman  
 
 ---
 
-### 🔍 **Data Analyst Virtual Project @ British Airways** *(April 2024)*  
-🔹 Analyzed customer reviews to uncover key patterns  
-🔹 Developed **predictive models** for improved customer insight  
+## 💼 Experience
+
+### 🧠 Data Science & AI/ML Intern — Luminar Technolab, Kochi *(Jan 2025 – Feb 2026)*
+🔹 Performed data cleaning, preprocessing & EDA on **20+ datasets** using Python and Pandas  
+🔹 Built **5+ Power BI dashboards** with SQL-style logic, KPIs, and DAX measures  
+🔹 Applied feature engineering, regression, deep learning, and model evaluation techniques  
+🔹 Worked with **Generative AI (LLM, RAG, Fine-tuning)** and NLP across ML pipelines  
+🔹 Gained hands-on experience in computer vision with **OpenCV** and **MediaPipe**  
 
 ---
 
-### 📊 **Data Visualization Virtual Internship @ Accenture** *(Jan 2025)*  
-🔹 Explored and visualized **7 datasets** to extract actionable insights  
-🔹 Delivered **dashboard-ready visualizations** using storytelling with data
+### 🏗 Back-End Developer Intern — Sinnonteq IT Consulting, Calicut *(Jun 2024 – Oct 2024)*
+🔹 Built **RESTful APIs** with **Flask** and **PostgreSQL** for seamless data integration  
+🔹 Collaborated with UI teams to optimize frontend-backend performance  
+🔹 Wrote scalable and efficient backend code for live production projects  
+
+---
+
+## 🔬 Projects
+
+### 🖼 Skin Type Recognition using CNN
+> Deep learning model for skin type image classification  
+- Designed and trained a **CNN** for image classification with preprocessing and augmentation  
+- **Tech:** Python · TensorFlow/Keras · CNN · OpenCV
+
+### 🤟 Sign Language Recognition using MediaPipe & Deep Learning
+> Real-time gesture classification from webcam feed  
+- Used **MediaPipe** for hand landmark detection; trained deep learning models for gesture classification  
+- **Tech:** Python · MediaPipe · OpenCV · TensorFlow
+
+### ✈ British Airways Data Analysis
+> Virtual project — customer sentiment & behavior analysis  
+- Performed data cleaning, **sentiment analysis**, and built models to extract business insights  
+- **Tech:** Python · Pandas · NLP · ML
 
 ---
 
@@ -81,18 +85,24 @@ Currently pursuing the **Python Data Science with AI & ML & BI** course at **Lum
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wafa-zz&show_icons=true&theme=radical" width="400px">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wafa-zz&theme=radical" width="400px"> -->
 </p>
 
 ---
 
-## 🔗 Let's Connect
+## 🎓 Education & Certifications
 
-- 📧 **Email:** [wafzz3090@gmail.com](mailto:wafzz3090@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/wafa-abdulla-1b1b72239](https://www.linkedin.com/in/wafa-abdulla-1b1b72239)  
-- 🐙 **GitHub:** [github.com/wafa-zz](https://github.com/wafa-zz)
+🎓 **B.C.A – Bachelor of Computer Application** *(2021 – 2024)*  
+&nbsp;&nbsp;&nbsp;&nbsp;Wadihuda Institute of Research and Advanced Studies, Kannur
+
+📜 **Data Science & AI/ML Certification** — Luminar Technolab *(2025 – 2026)*  
+&nbsp;&nbsp;&nbsp;&nbsp;Python · Machine Learning · Deep Learning · NLP · Generative AI · Power BI
 
 ---
 
-✨ *"Striving to create efficient, scalable, and impactful solutions!"* 🚀 
+## 🌐 Languages
 
+🗣 English · Malayalam
+
+---
+
+<p align="center">✨ <i>"Turning data into decisions, and models into impact."</i> 🚀</p>
