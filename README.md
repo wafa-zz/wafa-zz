@@ -114,6 +114,21 @@ I'm a **Data Scientist and AI/ML Engineer** with hands-on experience building en
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wafa-zz&theme=github_dark" height="160px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wafa-zz&theme=github_dark" height="160px"/>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=wafa-zz&theme=dark&hide_border=true" width="480px"/>
+
+</div>
+
+---
+
 ## 🎓 Education & Certifications
 
 🎓 **B.C.A — Bachelor of Computer Application** *(2021 – 2024)*
@@ -121,14 +136,6 @@ Wadihuda Institute of Research and Advanced Studies, Kannur
 
 📜 **Data Science & AI/ML Certification** — Luminar Technolab *(2025 – 2026)*
 Python · Machine Learning · Deep Learning · NLP · Generative AI · Power BI
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wafa-zz&show_icons=true&theme=radical&hide_border=true" width="420px">
-</div>
 
 ---
 
